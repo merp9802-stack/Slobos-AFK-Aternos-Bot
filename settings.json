@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Slobot09",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "MxP1-EmZc.aternos.me:23516",
+    "ip": "MxP1-EmZc.aternos.me",
     "port": 23516,
     "version": "1.21.11",
     "try-creative": false
